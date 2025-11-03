@@ -25,7 +25,7 @@ With Xone CS2, you can expect:
 The configs are fully customizable and regularly updated to align with the latest game patches and meta shifts. Xone CS2 is trusted by thousands of players worldwide and is completely free to use.
 
 <p align="center">
-  <img src="https://s3.xone.fun/files/games/c7d9csGDVYhX4v2ZKyBky8HBiphZQwj8Zuj9OIf1.png" alt="Xone CS2 Screenshot"/>
+  <img src="https://s3.xone.fun/files/games/Uu92k2nS7r5FszrMg8ddDpjaA4WQcvrVi6VQVzox.jpg" alt="Xone CS2 Screenshot"/>
 </p>
 
 ---
